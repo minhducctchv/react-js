@@ -64,6 +64,7 @@ module.exports = {
             'khai_niem_chinh/cai_dat',
             'khai_niem_chinh/jsx',
             'khai_niem_chinh/render',
+            'khai_niem_chinh/components_and_props',
           ]
         }
       ],
